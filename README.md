@@ -1,3 +1,6 @@
+# I,M Kunal Yadav
+
+
 # 💫 About Me:
 I am a dedicated MERN stack developer in progress, <br>passionate about building modern and interactive web applications. <br><br>I'm currently learning backend and building some awesome fronted website with<br>React and GSAP<br>With skills in React, JavaScript, Tailwind CSS, and GSAP,<br> I focus on creating smooth user experiences and clean UI designs.<br> I continuously work on real-world projects to sharpen my skills and stay consistent <br>in my learning. My aim is to become a highly skilled developer and secure a top <br>software engineering role through strong projects and problem-solving ability.
 
